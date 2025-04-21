@@ -18,7 +18,7 @@ A Command-Line Interface (CLI) based **Online Voting System** developed using **
 - **Security:** Password input is hidden using `getpass`
 - **Voting Integrity:** Only one vote per user is allowed
 
-## 📂 File Structure
+## File Structure
 online-voting-system/ │ ├── main.py # Main application loop ├── users.py # User management (register, login) ├── votes.py # Voting logic and result display └── README.md # Project documentation
 
 
