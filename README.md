@@ -31,7 +31,7 @@ online-voting-system/ │ ├── main.py # Main application loop ├── us
 
 2. **To Run the Main file
    ```bash
-   python mani.py
+   python main.py
 
 ## Example Output
 1. Register
